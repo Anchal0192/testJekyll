@@ -7,4 +7,4 @@ title: Home
 Welcome to my Jekyll site!
 
 
-[About Page]({{ '/about/' | relative_url }})
+[About Page]{{ '/about/' | relative_url }}
