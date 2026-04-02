@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Hello 👋
-Welcome to my Jekyll site!
+# Home
 
-
-[About Page]{{ '/about/' | relative_url }}
+Go to [About Page]({{ '/about/' | relative_url }})
