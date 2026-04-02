@@ -1,1 +1,8 @@
-thsi si test
+---
+layout: default
+title: About
+permalink: /about/
+---
+
+# About
+This is my about page.
